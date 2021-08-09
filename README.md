@@ -18,3 +18,6 @@ Introduction
 
 #### Day - 6
 - Strings and Dictionaries - [https://www.kaggle.com/colinmorris/strings-and-dictionaries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-6](https://www.kaggle.com/colinmorris/strings-and-dictionaries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-6)
+
+#### Day - 7
+- Working with External Libraries - [https://www.kaggle.com/colinmorris/working-with-external-libraries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-7](https://www.kaggle.com/colinmorris/working-with-external-libraries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-7)
