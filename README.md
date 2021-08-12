@@ -21,3 +21,16 @@ Introduction
 
 #### Day - 7
 - Working with External Libraries - [https://www.kaggle.com/colinmorris/working-with-external-libraries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-7](https://www.kaggle.com/colinmorris/working-with-external-libraries?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-7)
+
+#### Day - 8
+- How Models Work - [https://www.kaggle.com/dansbecker/how-models-work?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-8](https://www.kaggle.com/dansbecker/how-models-work?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-8)
+- Basic Data Exploration - [https://www.kaggle.com/dansbecker/basic-data-exploration?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-8](https://www.kaggle.com/dansbecker/basic-data-exploration?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-8)
+
+#### Day - 9
+- Your First Machine Learning Model - [https://www.kaggle.com/dansbecker/your-first-machine-learning-model?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-9](https://www.kaggle.com/dansbecker/your-first-machine-learning-model?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-9)
+- Model Validation - [https://www.kaggle.com/dansbecker/model-validation?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-9](https://www.kaggle.com/dansbecker/model-validation?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-9)
+
+#### Day - 10
+- Underfitting and Overfitting - [https://www.kaggle.com/dansbecker/underfitting-and-overfitting?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-10](https://www.kaggle.com/dansbecker/underfitting-and-overfitting?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-10)
+- Random Forests - [https://www.kaggle.com/dansbecker/random-forests?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-10](https://www.kaggle.com/dansbecker/random-forests?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-10)
+
