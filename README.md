@@ -34,3 +34,14 @@ Introduction
 - Underfitting and Overfitting - [https://www.kaggle.com/dansbecker/underfitting-and-overfitting?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-10](https://www.kaggle.com/dansbecker/underfitting-and-overfitting?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-10)
 - Random Forests - [https://www.kaggle.com/dansbecker/random-forests?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-10](https://www.kaggle.com/dansbecker/random-forests?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-10)
 
+#### Day - 11
+- Machine Learning Competitions - [https://www.kaggle.com/alexisbcook/machine-learning-competitions?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-11](https://www.kaggle.com/alexisbcook/machine-learning-competitions?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-11)
+
+#### Day - 12
+- Introduction (Intermediate ML course) - [https://www.kaggle.com/alexisbcook/introduction?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12](https://www.kaggle.com/alexisbcook/introduction?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12)
+- Missing Values - [https://www.kaggle.com/alexisbcook/missing-values?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12](https://www.kaggle.com/alexisbcook/missing-values?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12)
+- Categorical Variables - [https://www.kaggle.com/alexisbcook/categorical-variables?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12](https://www.kaggle.com/alexisbcook/categorical-variables?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-12)
+
+#### Day - 13
+- Pipelines - [https://www.kaggle.com/alexisbcook/pipelines?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13](https://www.kaggle.com/alexisbcook/pipelines?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13)
+- Cross-Validation - [https://www.kaggle.com/alexisbcook/cross-validation?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13](https://www.kaggle.com/alexisbcook/cross-validation?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13)
