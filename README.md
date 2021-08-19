@@ -45,3 +45,10 @@ Introduction
 #### Day - 13
 - Pipelines - [https://www.kaggle.com/alexisbcook/pipelines?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13](https://www.kaggle.com/alexisbcook/pipelines?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13)
 - Cross-Validation - [https://www.kaggle.com/alexisbcook/cross-validation?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13](https://www.kaggle.com/alexisbcook/cross-validation?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-13)
+
+#### Day - 14
+- XGBoost - [https://www.kaggle.com/alexisbcook/xgboost?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-14](https://www.kaggle.com/alexisbcook/xgboost?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-14)
+- Data Leakage - [https://www.kaggle.com/alexisbcook/data-leakage?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-14](https://www.kaggle.com/alexisbcook/data-leakage?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-14)
+
+#### Day - 15 to 30
+- Competition - [https://www.kaggle.com/c/30-days-of-ml](https://www.kaggle.com/c/30-days-of-ml)
